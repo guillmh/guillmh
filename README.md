@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+I'm [**Guillber**]
 
-<!--
-**guillmh/guillmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **frontend developer** with experience building modern web apps using **React**, **JavaScript**, and **TypeScript**. I enjoy working with reusable components, managing state efficiently, and writing clean, maintainable code.
 
-Here are some ideas to get you started:
+I'm comfortable consuming **REST APIs**, integrating third-party services, and deploying apps using tools like **Vite**, **GitHub**, **Render**, and **Vercel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have solid knowledge of **Node.js**, **Express**, and **MongoDB**, which helps me better understand fullstack development and collaborate with backend teams.
+
+Always learning, always building 🚀
+
+---
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/guillbermendez)
+
