@@ -3,7 +3,7 @@ I'm [**Guillber**]([https://www.miraya.tech](https://www.linkedin.com/in/guillbe
 
 I'm a **frontend developer** with experience building modern web apps using **React**, **JavaScript**, and **TypeScript**. I enjoy working with reusable components, managing state efficiently, and writing clean, maintainable code.
 
-I'm comfortable consuming **REST APIs**, integrating third-party services, and deploying apps using tools.
+I feel comfortable consuming REST APIs, integrating third-party services, and implementing applications using different tools.
 
 I also have solid knowledge of **Node.js**, **Express**, and **MongoDB**, which helps me better understand fullstack development and collaborate with backend teams.
 
