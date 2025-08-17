@@ -5,7 +5,7 @@ I’m a Backend Developer specialized in Node.js, Express, and MongoDB, focused 
 I also have Frontend experience with React, JavaScript, and TypeScript, which allows me to collaborate in fullstack projects.
 I’m passionate about clean code, performance optimization, and continuous learning.
 
-![](https://img.icons8.com/?size=30&id=8rKdRqZFLurS&format=png&color=000000) ![](https://img.icons8.com/?size=30&id=kg46nzoJrmTR&format=png&color=000000) ![](https://img.icons8.com/?size=30&id=asWSSTBrDlTW&format=png&color=000000) ![](https://img.icons8.com/?size=30&id=54087&format=png&color=000000) 
+![](https://img.icons8.com/?size=30&id=8rKdRqZFLurS&format=png&color=000000) ![](https://img.icons8.com/?size=30&id=WNoJgbzDr3i2&format=png&color=000000) ![](https://img.icons8.com/?size=30&id=asWSSTBrDlTW&format=png&color=000000) ![](https://img.icons8.com/?size=30&id=hsPbhkOH4FMe&format=png&color=000000) 
 
 ---
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/guillbermendez) 
