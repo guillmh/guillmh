@@ -7,7 +7,7 @@ I’m passionate about clean code, performance optimization, and continuous lear
 
 ---
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/guillbermendez) 
-![](https://img.icons8.com/?size=40&id=hsPbhkOH4FMe&format=png&color=000000)
+![](https://img.icons8.com/?size=35&id=hsPbhkOH4FMe&format=png&color=000000)
 
 
 
